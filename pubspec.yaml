@@ -34,6 +34,10 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
+  firebase_core: ^3.13.1
+  shared_preferences: ^2.5.3
+  get: ^4.7.2
+  cloud_firestore: ^5.6.8
 
 dev_dependencies:
   flutter_test:
@@ -50,17 +54,57 @@ dev_dependencies:
 # following page: https://dart.dev/tools/pub/pubspec
 
 # The following section is specific to Flutter packages.
-flutter:
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
-  uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
+flutter:
+  assets:
+    - assets/Images/b1-1.jpg
+    - assets/Images/b1-2.jpg
+    - assets/Images/b2-1.jpg
+    - assets/Images/b2-2.jpg
+    - assets/Images/b3-1.jpg
+    - assets/Images/b3-2.jpg
+    - assets/Images/b4-1.jpg
+    - assets/Images/b4-2.jpg
+    - assets/Images/e1-1.jpg
+    - assets/Images/e1-2.jpg
+    - assets/Images/e2-1.jpg
+    - assets/Images/e2-2.jpg
+    - assets/Images/e3-1.jpg
+    - assets/Images/e3-2.jpg
+    - assets/Images/e4-1.jpg
+    - assets/Images/e4-2.jpg
+    - assets/Images/e5-1.jpg
+    - assets/Images/e5-2.jpg
+    - assets/Images/n1-1.jpg
+    - assets/Images/n1-2.jpg
+    - assets/Images/n2-1.jpg
+    - assets/Images/n2-2.jpg
+    - assets/Images/n3-1.jpg
+    - assets/Images/n3-2.jpg
+    - assets/Images/r1-1.jpg
+    - assets/Images/r1-2.jpg
+    - assets/Images/r2-1.jpg
+    - assets/Images/r2-2.jpg
+    - assets/Images/r3-1.jpg
+    - assets/Images/r3-2.jpg
+    - assets/Images/r4-1.jpg
+    - assets/Images/r4-2.jpg
+    - assets/Images/set1-1.jpg
+    - assets/Images/set1-2.jpg
+    - assets/Images/set2-1.jpg
+    - assets/Images/set2-2.jpg
+    - assets/Images/set3-1.jpg
+    - assets/Images/set3-2.jpg
+    - assets/Images/set4-1.jpg
+    - assets/Images/set4-2.jpg
+
+  uses-material-design: true
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
