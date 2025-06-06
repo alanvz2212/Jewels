@@ -61,7 +61,6 @@ class ProductContorller extends GetxController {
       // if (kDebugMode) {
       //   print('Error Fetching Products');
       // }
-      
     } finally {
       isLoading.value = false;
     }
