@@ -16,7 +16,7 @@ class AppBinding extends Bindings {
     Get.put(AuthController(), permanent: true);
     Get.put(AddressController(), permanent: true);
     Get.put(() => OfferController());
-    //we are using a function or lambda to create the contorllercalled lazy loading
+    //we are using a function or lambda to create the contorller called lazy loading
     Get.put(OrderController(), permanent: true);
     Get.lazyPut(() => ProfileController());
     // Saves memory and speed by creating the controller only when used.
