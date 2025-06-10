@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/foundation.dart';
 import 'package:get/get.dart';
-import 'package:testapp/models/product_model.dart';
+import 'package:testapp/app/models/product_model.dart';
 
 class ProductContorller extends GetxController {
   final FirebaseFirestore _firestore = FirebaseFirestore.instance;

@@ -1,11 +1,11 @@
 import 'package:get/get.dart';
-import 'package:testapp/controllers/address_controller.dart';
-import 'package:testapp/controllers/auth_controller.dart';
-import 'package:testapp/controllers/cart_controller.dart';
-import 'package:testapp/controllers/offer_controller.dart';
-import 'package:testapp/controllers/order_controller.dart';
-import 'package:testapp/controllers/product_contorller.dart';
-import 'package:testapp/controllers/profile_controller.dart';
+import 'package:testapp/app/controllers/address_controller.dart';
+import 'package:testapp/app/controllers/auth_controller.dart';
+import 'package:testapp/app/controllers/cart_controller.dart';
+import 'package:testapp/app/controllers/offer_controller.dart';
+import 'package:testapp/app/controllers/order_controller.dart';
+import 'package:testapp/app/controllers/product_contorller.dart';
+import 'package:testapp/app/controllers/profile_controller.dart';
 
 class AppBinding extends Bindings {
   @override
