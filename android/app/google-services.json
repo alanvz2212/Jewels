@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "228649498780",
+    "project_id": "jewels-81fe3",
+    "storage_bucket": "jewels-81fe3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228649498780:android:8b4979b2948baf0f53d559",
+        "android_client_info": {
+          "package_name": "com.example.jewels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeTt1KVN-fOvLnqSLoUlBbKk-KKWE6U5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228649498780:android:bbdaf5be7a02ada253d559",
+        "android_client_info": {
+          "package_name": "com.example.testapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeTt1KVN-fOvLnqSLoUlBbKk-KKWE6U5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
