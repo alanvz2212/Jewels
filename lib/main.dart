@@ -30,9 +30,9 @@ class MyApp extends StatelessWidget {
       themeMode: ThemeMode.system,
       initialRoute: '/splash',
       getPages: [
-        GetPage(name: '/splash', page: () => SplashScreen()),
-        GetPage(name: '/login', page: () => LoginScreen()),
-        GetPage(name: '/signup', page: () => SignUpScreen()),
+        // GetPage(name: '/splash', page: () => SplashScreen()),
+        // GetPage(name: '/login', page: () => LoginScreen()),
+        // GetPage(name: '/signup', page: () => SignUpScreen()),
       ],
     );
   }
