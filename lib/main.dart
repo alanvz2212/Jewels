@@ -4,6 +4,7 @@ import 'package:flutter_stripe/flutter_stripe.dart';
 import 'package:get/route_manager.dart';
 import 'package:testapp/app/data/consts.dart';
 import 'package:testapp/app/screens/login_screen.dart';
+import 'package:testapp/app/screens/signup_screen.dart';
 import 'package:testapp/app/screens/splash_screen.dart';
 import 'package:testapp/app/services/bindings.dart';
 import 'package:testapp/app/utilities/theme.dart';
@@ -31,6 +32,7 @@ class MyApp extends StatelessWidget {
       getPages: [
         GetPage(name: '/splash', page: () => SplashScreen()),
         GetPage(name: '/login', page: () => LoginScreen()),
+        GetPage(name: '/signup', page: () => SignUpScreen()),
       ],
     );
   }

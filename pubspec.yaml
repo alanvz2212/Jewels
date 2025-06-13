@@ -77,8 +77,56 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/images/
-    - assets/Images/logo.png
+   - assets/Images/b1-1.jpg
+   - assets/Images/b1-2.jpg
+   - assets/Images/b2-1.jpg
+   - assets/Images/b2-2.jpg
+   - assets/Images/b3-1.jpg
+   - assets/Images/b3-2.jpg
+   - assets/Images/b4-1.jpg
+   - assets/Images/b4-2.jpg
+   - assets/Images/e1-1.jpg
+   - assets/Images/e1-2.jpg
+   - assets/Images/e2-1.jpg
+   - assets/Images/e2-2.jpg
+   - assets/Images/e3-1.jpg
+   - assets/Images/e3-2.jpg
+   - assets/Images/e4-1.jpg
+   - assets/Images/e4-2.jpg
+   - assets/Images/e5-1.jpg
+   - assets/Images/e5-2.jpg
+   - assets/Images/n1-1.jpg
+   - assets/Images/n1-2.jpg
+   - assets/Images/n2-1.jpg
+   - assets/Images/n2-2.jpg
+   - assets/Images/n3-1.jpg
+   - assets/Images/n3-2.jpg
+   - assets/Images/r1-1.jpg
+   - assets/Images/r1-2.jpg
+   - assets/Images/r2-1.jpg
+   - assets/Images/r2-2.jpg
+   - assets/Images/r3-1.jpg
+   - assets/Images/r3-2.jpg
+   - assets/Images/r4-1.jpg
+   - assets/Images/r4-2.jpg
+   - assets/Images/set1-1.jpg
+   - assets/Images/set1-2.jpg
+   - assets/Images/set2-1.jpg
+   - assets/Images/set2-2.jpg
+   - assets/Images/set3-1.jpg
+   - assets/Images/set3-2.jpg
+   - assets/Images/set4-1.jpg
+   - assets/Images/set4-2.jpg
+   - assets/Images/profile.png
+   - assets/Images/logo.png
+   - assets/Images/logoraw.png
+   - assets/animations/Animation - 1735364832916.json
+   - assets/animations/Animation - 1735366182958.json
+   - assets/animations/Animation - 1735834409097.json
+   - assets/animations/Animation - 1735834925724.json
+   - assets/animations/Animation - 1736007123250.json
+   - assets/animations/Animation - 1736140561092.json
+   - assets/animations/Animation - 1736140561092.lottie
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
